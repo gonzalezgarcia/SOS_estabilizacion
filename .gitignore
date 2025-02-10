@@ -1,3 +1,5 @@
 .quarto
 .quarto/*
 DS_Store
+
+/.quarto/
