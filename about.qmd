@@ -2,4 +2,4 @@
 title: "Sobre nosotros"
 ---
 
-**#SOS Plan de Estabilización** es un colectivo de PDI de la Universidad de Granada que defiende el Plan de Estabilización por necesidades de Investigación de la Universidad de Granada que ha dado muy buenos resultados en captación de talento, del sueldo de ese talento investigador, y de fondos en forma de Proyectos de Investigación. Este Plan nunca ha estado supeditado a necesidades docentes y creemos que esto llevará a su declive y con él el de la captación de talento investigador.
+**#SOS Plan de Estabilización** es un colectivo de PDI de la Universidad de Granada que defiende el Plan de Estabilización por necesidades de Investigación de la Universidad de Granada. Este plan ha demostrado muy buenos resultados en captación de talento, del sueldo de ese talento investigador y de fondos en forma de Proyectos de Investigación. Este Plan nunca ha estado supeditado a necesidades docentes y hacerlo llevará a su declive y con él, el de la captación de talento investigador.
