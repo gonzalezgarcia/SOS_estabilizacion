@@ -30,6 +30,8 @@ Con el objetivo de mantener la excelencia investigadora que define a la Universi
 
 ::: {.callout-tip title='Apoya la petición'}
 
+![](sos_plan.svg)
+
 <a href="https://forms.gle/xLcJPAVkkrgu4LUu9" class="btn btn-primary">Firma</a>
 :::
 

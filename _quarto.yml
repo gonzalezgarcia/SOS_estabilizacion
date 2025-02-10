@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "SOS Plan de Estabilización"
   navbar:
+    logo: "sos_plan.svg"
+    logo-alt: "SOS Plan de Estabilización"
     left:
       - href: index.qmd
         text: Inicio
